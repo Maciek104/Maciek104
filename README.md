@@ -2,7 +2,11 @@
 
 Salut ! Je m'appelle Maciek et je suis passionné par la programmation, les nouvelles technologies et le développement d'applications. Je travaille avec des langages de programmation tels que PHP, JavaScript, TypeScript, Python et C++, tout en approfondissant mes connaissances en Rust. Dans le domaine du développement web, j'utilise notamment React, Vite et Symfony. En dehors de la programmation, je m'intéresse également à Docker, à la virtualisation et à l'infrastructure informatique en général. J'aime expérimenter, relever de nouveaux défis et améliorer constamment mes compétences en transformant mes idées en projets concrets. 🚀
 
-<img src="https://skillicons.dev/icons?i=php,js,ts,python,cpp,rust,react,vite,symfony,docker,git,linux" />
+## 🇬🇧 • Hello 👋
+
+Hi! I'm Maciek, and I'm passionate about programming, new technologies, and software development. I work with programming languages such as PHP, JavaScript, TypeScript, Python, and C++, while also expanding my knowledge of Rust. In web development, I use technologies such as React, Vite, and Symfony, and beyond programming, I'm also interested in Docker, virtualization, and IT infrastructure in general. I enjoy experimenting, taking on new challenges, and continuously improving my skills by turning ideas into practical projects. 🚀
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,symfony,react,vite,python,cpp,rust,docker,linux,git" />
 
 <!--
 **Maciek104/Maciek104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
