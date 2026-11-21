@@ -1,6 +1,6 @@
 ## 🇫🇷 • Bonjour 👋
 
-Salut ! Je m'appelle Maciek et je suis passionné par la programmation, les nouvelles technologies et le développement d'applications. Je travaille avec des langages de programmation tels que PHP, JavaScript, TypeScript, Python et C++, tout en approfondissant mes connaissances en Rust. Dans le domaine du développement web, j'utilise notamment React, Vite et Symfony. En dehors de la programmation, je m'intéresse également à Docker, à la virtualisation et à l'infrastructure informatique en général. J'aime expérimenter, relever de nouveaux défis et améliorer constamment mes compétences en transformant mes idées en projets concrets.
+Salut! Je m'appelle Maciek et je suis passionné par la programmation, les nouvelles technologies et le développement d'applications. Je travaille avec des langages de programmation tels que PHP, JavaScript, TypeScript, Python et C++, tout en approfondissant mes connaissances en Rust. Dans le domaine du développement web, j'utilise notamment React, Vite et Symfony. En dehors de la programmation, je m'intéresse également à Docker, à la virtualisation et à l'infrastructure informatique en général. J'aime expérimenter, relever de nouveaux défis et améliorer constamment mes compétences en transformant mes idées en projets concrets.
 
 ## 🛠️ • Technologies et outils
 
